@@ -24,3 +24,22 @@ main.py        # Main neon drawing app
 skeleton.py    # Commented hand skeleton learning file
 command.py     # Pinch gesture command experiment
 controls.md    # Controls and shortcuts
+
+
+
+## `controls.md`
+
+```markdown
+# Controls
+
+## main.py
+
+```text
+Index finger up = Draw
+Pinch thumb + index finger = Stop drawing
+C = Clear screen
+Q = Quit
+1 = Pink neon
+2 = Cyan neon
+3 = Green neon
+4 = Orange neon
