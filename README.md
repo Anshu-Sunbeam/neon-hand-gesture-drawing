@@ -19,7 +19,7 @@ A beginner-friendly Python computer vision project that uses OpenCV and MediaPip
 
 ## Files
 
-```text
+
 main.py        # Main neon drawing app
 skeleton.py    # Commented hand skeleton learning file
 command.py     # Pinch gesture command experiment
@@ -27,7 +27,6 @@ controls.md    # Controls and shortcuts
 
 
 
-## `controls.md`
 
 ```markdown
 # Controls
