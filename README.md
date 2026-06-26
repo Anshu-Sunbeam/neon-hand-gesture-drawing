@@ -28,12 +28,9 @@ controls.md    # Controls and shortcuts
 
 
 
-```markdown
 # Controls
 
 ## main.py
-
-```text
 Index finger up = Draw
 Pinch thumb + index finger = Stop drawing
 C = Clear screen
