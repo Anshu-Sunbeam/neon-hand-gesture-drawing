@@ -9,6 +9,7 @@ A beginner-friendly Python computer vision project that uses OpenCV and MediaPip
 - Draws neon trails when your index finger is up
 - Uses pinch gesture to stop drawing
 - Lets you clear the screen and change neon colors
+- Includes a pinch gesture command experiment
 
 ## Tech used
 
@@ -16,26 +17,11 @@ A beginner-friendly Python computer vision project that uses OpenCV and MediaPip
 - OpenCV
 - MediaPipe
 - NumPy
+- PyAutoGUI
 
 ## Files
 
-#files
+```text
 main.py        # Main neon drawing app
 skeleton.py    # Commented hand skeleton learning file
 command.py     # Pinch gesture command experiment
-controls.md    # Controls and shortcuts
-
-
-
-
-# Controls
-
-## main.py
-Index finger up = Draw
-Pinch thumb + index finger = Stop drawing
-C = Clear screen
-Q = Quit
-1 = Pink neon
-2 = Cyan neon
-3 = Green neon
-4 = Orange neon
